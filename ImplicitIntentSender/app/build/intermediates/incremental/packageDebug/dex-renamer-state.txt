@@ -1,0 +1,7 @@
+#Tue Mar 21 19:56:57 CET 2017
+base.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentSender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45bb853f7aebec24b3e3c81de01bd26b29c40716
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentSender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e12c925751fd2b658fd08c5297cebd807ddb4054/classes.dex
+base.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentSender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e12c925751fd2b658fd08c5297cebd807ddb4054
+file.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentSender/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45bb853f7aebec24b3e3c81de01bd26b29c40716/classes.dex

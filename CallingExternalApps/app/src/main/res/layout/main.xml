@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Number to call"
+        android:inputType="numberSigned" />
+
+    <Button
+        android:id="@+id/callnumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call a number" />
+
+    <EditText
+        android:id="@+id/www"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Web address"
+        android:text="http://www.google.com" />
+
+    <Button
+        android:id="@+id/bringupweb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bring up browser" />
+
+</LinearLayout>

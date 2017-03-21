@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37320e03d80210e52110df5493b577b8daad6377">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_298028c4b1aed1be74df04cab07b2000399f630d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eacf4681dbe1583af2695cfcc4a37da024b8486f">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36c3ad24a7b732ea7feb7e22dfaca075f81d9aab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/CallingExternalApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/CallingExternalApps/app/build/intermediates/pre-dexed/debug/classes-37a0b6255f42233c63192d420e08d7b800c208b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_23b84bbbf7d36df5dc889cda5da5435e98f31f34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.0_c903e9ece69c5a393e0e2874f4278f1f858b6a18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/CallingExternalApps/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-bd86fabd74a8b382e424b1de7d5d9073ed983a4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_bd86fabd74a8b382e424b1de7d5d9073ed983a4b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/CallingExternalApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/CallingExternalApps/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c0e9f59ccaacc026238aaf278154ffbbb1cde81b.jar" />
+    </item>
+
+</items>

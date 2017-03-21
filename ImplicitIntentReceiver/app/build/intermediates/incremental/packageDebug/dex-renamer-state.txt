@@ -1,0 +1,7 @@
+#Tue Mar 21 20:05:34 CET 2017
+base.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85dfb822d119d2b38400f87dd38a7487978704b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b06c1f89cf2283fc8d83df7671ad18774f780902/classes.dex
+base.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b06c1f89cf2283fc8d83df7671ad18774f780902
+file.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85dfb822d119d2b38400f87dd38a7487978704b/classes.dex

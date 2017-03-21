@@ -1,0 +1,7 @@
+#Tue Mar 21 21:29:09 CET 2017
+base.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36c3ad24a7b732ea7feb7e22dfaca075f81d9aab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_298028c4b1aed1be74df04cab07b2000399f630d/classes.dex
+base.1=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_298028c4b1aed1be74df04cab07b2000399f630d
+file.0=/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/CallingExternalApps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36c3ad24a7b732ea7feb7e22dfaca075f81d9aab/classes.dex

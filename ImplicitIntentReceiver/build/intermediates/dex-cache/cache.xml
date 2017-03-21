@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e509bfaa6ff2b28f59d9c0cdce146c8210c0ce22">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85dfb822d119d2b38400f87dd38a7487978704b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/ImplicitIntentReceiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/ImplicitIntentReceiver/app/build/intermediates/pre-dexed/debug/classes-98854c73cd20a008fc4b05a162ba7c9e57c03ac5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.0_3e931836705dc02e0573f388af67986befab01bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_57b8103eb68d6f1ca4a8a758e618a79c6e47856d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/ImplicitIntentReceiver/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-bd86fabd74a8b382e424b1de7d5d9073ed983a4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_bd86fabd74a8b382e424b1de7d5d9073ed983a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04b7c2994d1d6d29363b47cf6cc7f3457d6a97cd">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2017/Lecture8/ImplicitIntentReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b06c1f89cf2283fc8d83df7671ad18774f780902/classes.dex" />
+    </item>
+    <item
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/ImplicitIntentReceiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture2/ImplicitIntentReceiver/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-fb981a33feac370be44fb062bd0952d822307443.jar" />
+    </item>
+
+</items>
